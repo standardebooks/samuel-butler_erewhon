@@ -39,14 +39,15 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A traveller ventures in the unknown country of Erewhon and finds a surprisingly different culture.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In a desire for better sheep-farming land on an unnamed British colony, Higgs decides to traverse the distant mountain range. On the other side though he discovers not the empty rolling plains of his imagination but an entirely new civilisation: the land of Erewhon. Inducted into the ways of their culture, he attempts to transcribe as best he can their thoughts on birth, death, machines, the production of food, their financial system, and many more subjects that on first glance seem absurd to the narrator but often end up revealing absurdity in his own thinking.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Erewhon&lt;/i&gt; was extremely well received on its initial (and anonymous) publication, with its satirical commentary on contemporary Victorian attitudes ensuring its commercial success. &lt;a href="https://standardebooks.org/ebooks/samuel-butler"&gt;Samuel Butler&lt;/a&gt; incorporated into the novel his philosophical ideas, including chapters founded on his interest in &lt;a href="https://standardebooks.org/ebooks/charles-darwin"&gt;Darwinian&lt;/a&gt; evolution theory, and on the potential rise in artificial consciousness. George Orwell held the novel in high regard, and the Erewhonian philosophy on the danger of machines even made its way into Frank Herbert’s &lt;i&gt;Dune&lt;/i&gt; series as the “Butlerian jihad.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1906</dc:source>
 		<dc:source>https://archive.org/details/erewhonorover00butl</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">It looks like MuseScore’s MusicXML output doesn’t properly save the fermata over bar lines in illustration-1. If this is amended in future from the XML then they will need to be replaced.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Erewhon</meta>
