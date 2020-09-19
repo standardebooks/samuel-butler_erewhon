@@ -82,10 +82,6 @@ section[epub|type~="epigraph"] > *{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
