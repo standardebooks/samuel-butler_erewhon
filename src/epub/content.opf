@@ -30,6 +30,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Erewhon</dc:title>
 		<meta property="file-as" refines="#title">Erewhon</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Or, Over the Range</dc:title>
+		<meta property="file-as" refines="#subtitle">Or, Over the Range</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Erewhon, or Over the Range</dc:title>
+		<meta property="file-as" refines="#fulltitle">Erewhon</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Satire</dc:subject>
 		<dc:subject id="subject-2">Utopias -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Utopian fiction</dc:subject>
