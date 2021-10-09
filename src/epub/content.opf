@@ -47,6 +47,8 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A traveller ventures to the unknown country of Erewhon and finds a surprisingly different culture.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In a desire for better sheep-farming land on an unnamed British colony, Higgs decides to traverse the distant mountain range. On the other side he discovers not the empty rolling plains of his imagination but an entirely new civilization: the land of Erewhon. Inducted into the ways of their culture, he attempts to transcribe as best he can their thoughts on birth, death, machines, the production of food, their financial system, and many more subjects that on first glance seem absurd to the narrator but often end up revealing absurdity in his own thinking.&lt;/p&gt;
