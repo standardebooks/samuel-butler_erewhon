@@ -62,7 +62,7 @@
 		<dc:source>https://archive.org/details/erewhonorover00butl</dc:source>
 		<meta property="se:production-notes">It looks like MuseScore’s MusicXML output doesn’t properly save the fermata over bar lines in illustration-1. If this is amended in future from the XML then they will need to be replaced.</meta>
 		<meta property="se:word-count">84144</meta>
-		<meta property="se:reading-ease.flesch">54.49</meta>
+		<meta property="se:reading-ease.flesch">54.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Erewhon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/samuel-butler_erewhon</meta>
 		<dc:creator id="author">Samuel Butler</dc:creator>
